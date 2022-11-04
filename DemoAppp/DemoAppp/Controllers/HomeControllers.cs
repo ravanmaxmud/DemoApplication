@@ -2,7 +2,7 @@
 
 namespace DemoAppp.Controllers
 {
-    public class HomeControllers : Controller
+    public class HomeController : Controller
     {
         public ViewResult Index()
         {
